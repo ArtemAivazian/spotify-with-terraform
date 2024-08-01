@@ -117,6 +117,9 @@ Thumbs.db
 *.swp
 *.swo
 
+# env files
+.env
+
 # Terraform specific
 # Local .terraform directories
 **/.terraform/*
