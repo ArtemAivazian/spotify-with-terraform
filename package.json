@@ -1,0 +1,18 @@
+{
+  "name": "spotify-with-terraform",
+  "version": "1.0.0",
+  "description": "Manage SPOTIFY with TERRAFORM",
+  "main": "index.js",
+  "scripts": {
+    "release": "npx semantic-release"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@semantic-release/commit-analyzer": "^13.0.0",
+    "@semantic-release/github": "^10.1.3",
+    "semantic-release": "^24.0.0",
+    "semantic-release-jira-notes": "^4.0.0"
+  }
+}
